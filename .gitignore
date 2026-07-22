@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+flagged_transactions.csv
+fraud_analysis.png
+.DS_Store
