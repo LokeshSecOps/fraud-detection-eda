@@ -3,6 +3,8 @@
 Exploratory data analysis and anomaly flagging on a synthetic credit card transaction dataset. Built to demonstrate practical data analytics, feature engineering, and interpretable fraud detection — the kind of work done by Credit & Fraud Risk (CFR) teams.
 
 ## What it does
+<img width="1991" height="1434" alt="image" src="https://github.com/user-attachments/assets/9ea215b6-8c3c-452d-9b39-0be5662a69b1" />
+
 
 1. **Generates a realistic synthetic dataset** — 10,000 transactions across 200 users, 8 merchant categories, spanning one year. Fraud patterns are embedded: high-amount outliers, odd-hour transactions (1–4am), and rapid velocity bursts.
 
