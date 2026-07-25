@@ -8,7 +8,7 @@ Approach:
   - Flag anomalies using Z-score + rule-based heuristics (interpretable, auditable)
   - Visualize distributions and flagged transactions
   - Export flagged transactions to CSV for downstream review 
-
+ 
 No black-box models: every rule is explicit and auditable — matching how real
 risk teams build interpretable, regulatorily-defensible fraud systems.
 """
